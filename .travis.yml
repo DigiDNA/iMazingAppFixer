@@ -1,0 +1,3 @@
+language: objective-c
+xcode_project: iMazingAppFixer.xcodeproj
+xcode_scheme: iMazing App Fixer
