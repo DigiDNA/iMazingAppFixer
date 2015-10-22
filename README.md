@@ -5,7 +5,7 @@ iMazing App Fixer
 [![Issues](http://img.shields.io/github/issues/DigiDNA/iMazingAppFixer.svg?style=flat)](https://github.com/DigiDNA/iMazingAppFixer/issues)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg?style=flat)
 ![License](https://img.shields.io/badge/license-mit-brightgreen.svg?style=flat)
-[![Contact](https://img.shields.io/badge/contact-@DigiDNA-blue.svg?style=flat)](https://twitter.com/macmade)
+[![Contact](https://img.shields.io/badge/contact-@DigiDNA-blue.svg?style=flat)](https://twitter.com/DigiDNA)
 
 About
 -----
