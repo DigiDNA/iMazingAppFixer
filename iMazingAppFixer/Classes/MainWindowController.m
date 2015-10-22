@@ -70,7 +70,7 @@
     self.window.title = ( title ) ? title : @"";
 }
 
-- ( void )observeValueForKeyPath: ( NSString * )keyPath ofObject: ( id )object change: ( NSDictionary< NSString *, id > * )change context: ( void * )context
+- ( void )observeValueForKeyPath: ( NSString * )keyPath ofObject: ( id )object change: ( NSDictionary * )change context: ( void * )context
 {
     NSString * path;
     NSBundle * bundle;
