@@ -28,7 +28,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface MainWindowController: NSWindowController
 
-@property( atomic, readwrite, strong, nullable ) NSURL * url;
+@property( atomic, readwrite, strong ) NSURL * url;
 
 @end
 

@@ -54,6 +54,7 @@
 - ( void )openDocument: ( id )sender
 {
     NSOpenPanel * panel;
+    NSURL       * url;
     
     ( void )sender;
     
@@ -77,7 +78,8 @@
         return;
     }
     
-    self.mainWindowController.url = panel.URLs.firstObject;
+    url                           = panel.URLs.firstObject;
+    self.mainWindowController.url = url;
     
     [ self.mainWindowController.window center ];
     [ self.mainWindowController showWindow: nil ];
