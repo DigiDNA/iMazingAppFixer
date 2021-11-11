@@ -1,11 +1,11 @@
 iMazing App Fixer
 =================
 
-[![Build Status](https://img.shields.io/travis/DigiDNA/iMazingAppFixer.svg?branch=master&style=flat)](https://travis-ci.org/DigiDNA/iMazingAppFixer)
-[![Issues](http://img.shields.io/github/issues/DigiDNA/iMazingAppFixer.svg?style=flat)](https://github.com/DigiDNA/iMazingAppFixer/issues)
-![Status](https://img.shields.io/badge/status-active-brightgreen.svg?style=flat)
-![License](https://img.shields.io/badge/license-mit-brightgreen.svg?style=flat)
-[![Contact](https://img.shields.io/badge/contact-@DigiDNA-blue.svg?style=flat)](https://twitter.com/DigiDNA)
+[![Build Status](https://img.shields.io/github/workflow/status/DigiDNA/iMazingAppFixer/ci-mac?label=macOS&logo=apple)](https://github.com/DigiDNA/iMazingAppFixer/actions/workflows/ci-mac.yaml)
+[![Issues](http://img.shields.io/github/issues/DigiDNA/iMazingAppFixer.svg?logo=github)](https://github.com/DigiDNA/iMazingAppFixer/issues)
+![Status](https://img.shields.io/badge/status-legacy-red.svg?logo=git)
+![License](https://img.shields.io/badge/license-mit-brightgreen.svg?logo=open-source-initiative)  
+[![Contact](https://img.shields.io/badge/follow-@digidna-blue.svg?logo=twitter&style=social)](https://twitter.com/digidna)
 
 About
 -----
