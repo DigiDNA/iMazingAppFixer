@@ -241,11 +241,17 @@
 
 - ( BOOL )clearExtendedAttributes
 {
-    NSTask * task;
+    NSTask   * task;
+    NSString * path = self.url.path;
+    
+    if( path == nil )
+    {
+        return NO;
+    }
     
     task            = [ NSTask new ];
     task.launchPath = @"/usr/bin/xattr";
-    task.arguments  = @[ @"-c", @"-r", self.url.path ];
+    task.arguments  = @[ @"-c", @"-r", path ];
     
     [ task launch ];
     [ task waitUntilExit ];
